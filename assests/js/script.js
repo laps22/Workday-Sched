@@ -9,12 +9,13 @@ setInterval (function () {
 // WHEN I scroll down
 // THEN I am presented with time blocks for standard business hours
 // WHEN I view the time blocks for that day
+
 // THEN each time block is color-coded to indicate whether it is in the past, present, or future
 // var past = moment().local();
 // $(".past").local(past)
 
-var past = moment.utc([2011, 0, 1, 8]);
-past.local(".past");
+// var past = moment.utc([2011, 0, 1, 8]);
+// past.local(".past");
 
 // WHEN I click into a time block
 // THEN I can enter an event
