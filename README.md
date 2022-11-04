@@ -6,7 +6,7 @@ All events saved are saved to the local.storage
 # Links
 Git Hub Repo:https://github.com/laps22/Workday-Sched.git
 
-Live URL:
+Live URL:https://laps22.github.io/Workday-Sched/
 
 
 # Screenshot
